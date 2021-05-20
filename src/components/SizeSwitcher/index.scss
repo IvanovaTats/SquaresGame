@@ -1,0 +1,12 @@
+.button{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    color: #687980;
+    font-weight: bold;
+
+    &:focus{
+        background-color: #da7f8f;
+        color: #faf3f3;
+    }
+}

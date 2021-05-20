@@ -1,0 +1,13 @@
+.cell {
+  width: 3rem;
+  height: 3rem;
+  background-color: grey;
+
+  &_red {
+    background-color: red;
+  }
+
+  &_white {
+    background-color: white;
+  }
+}

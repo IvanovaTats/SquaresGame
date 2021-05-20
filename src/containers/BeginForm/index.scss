@@ -1,0 +1,14 @@
+$color: #da7f8f;
+.welcome{
+    color: $color;
+}
+
+.start-button{
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    padding: 10px;
+    background-color: $color;
+    border-color: $color;
+    color: #faf3f3;
+}
